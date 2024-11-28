@@ -14,5 +14,5 @@
 Обязанности:\
 Савина - пункты 1,2,3\
 Ромашин - пункты 2,4,5\
-Кутырёва - пункты 2,6,7..
- <img width="328" alt="Снимок МРТ" src="https://github.com/user-attachments/assets/b7c01bc4-67a7-48a2-a9ff-0e0e1e7f3c66">
+Кутырёва - пункты 2,6,7..\
+ <img width="500" alt="Снимок МРТ" src="https://github.com/user-attachments/assets/b7c01bc4-67a7-48a2-a9ff-0e0e1e7f3c66">
